@@ -1,4 +1,3 @@
-# form-submission-using-AJAX
 ## News-Letter form submission using fetch API and AJAX 
 
 
